@@ -1,0 +1,6 @@
+com\game\battleship\RandomHitShipStrategyTest.class
+com\game\battleship\PlaceShipFactoryTest.class
+com\game\battleship\RandomPlaceShipStrategyTest.class
+com\game\battleship\NewGameStateTest.class
+com\game\battleship\HitShipFactoryTest.class
+com\game\battleship\AppTest.class

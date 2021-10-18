@@ -1,1 +1,1 @@
-# electronicbattleship
+# BattleshipGame
